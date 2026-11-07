@@ -69,9 +69,9 @@ Say "I$([char]0x2019)d hate to admit it, it$([char]0x2019)s been driving me craz
 Beep 880 150
 Say "A lot." 140 1800 "Red"
 Say "You're the only one who completely captures my thoughts." 55 1500
-Say "Not just as a friend" 60 900
-Say "Not as a random title" 60 900
-Say "I want to be the one by your side." 60 1400 "Magenta"
+Say "Not just as a friend." 60 900
+Say "Not as a random title." 60 900
+Say "I want to be the one by your side." 60 1400 
 Say "I don't even care what it's called anymore, I just want to be yours and vice versa." 50 2000
 
 Clear-Host
@@ -85,9 +85,9 @@ Clear-Host
 Start-Sleep -Milliseconds 600
 
 Say "I like your intelligence." 60 800 "Yellow"
-Say "Your personality" 60 800 "Yellow"
-Say "Your quirks" 60 800 "Yellow"
-Say "Your flaws" 60 800 "Yellow"
+Say "Your personality." 60 800 "Yellow"
+Say "Your quirks." 60 800 "Yellow"
+Say "Your flaws." 60 800 "Yellow"
 Say "Literally everything about you." 70 1500 "Yellow"
 Say "That's why you've been my exception for so damn long." 55 1500
 Say "I like the way you smile, the way you talk (even if other people find it hard to listen to or triggering, it's cute$([char]0x2014)at least to me)." 45 2000
