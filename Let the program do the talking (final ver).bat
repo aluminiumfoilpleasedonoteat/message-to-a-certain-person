@@ -3,7 +3,7 @@ chcp 65001 >nul
 powershell -NoProfile -ExecutionPolicy Bypass -Command "$s=[IO.File]::ReadAllText('%~f0',[Text.Encoding]::UTF8); Invoke-Expression (($s -split '\r?\n#PS#\r?\n')[1])"
 exit /b
 #PS#
-$from = "YOUR NAME HERE"
+$from = "NTAL"
 
 [Console]::OutputEncoding = [System.Text.Encoding]::UTF8
 $Host.UI.RawUI.WindowTitle = "Let the program do the talking"
