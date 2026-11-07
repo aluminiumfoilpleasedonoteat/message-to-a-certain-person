@@ -33,7 +33,7 @@ function Finish() {
 }
 
 Clear-Host
-Typewrite "Hi TTP, I have something to say$([char]0x2014)just to clear my head and so you actually know.`n"
+Typewrite "Hi, I have something to say$([char]0x2014)just to clear my head and so you actually know.`n"
 Start-Sleep -Milliseconds 800
 Typewrite "Do you want to read it? (yes/no): "
 $a = Read-Host
